@@ -737,9 +737,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: #6666;
-  background-size: cover;
-  padding: 60px 0;
+  background: #fff;
+  color: #666666;
 }
 
 #call-to-action::before {
