@@ -738,7 +738,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #call-to-action {
   padding: 60px 0;
-  background: #000;
+  background: #666666;
 }
 
 #call-to-action h3 {
@@ -771,29 +771,29 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid #dcbe85;
 }
 
-/* Clients Section
+/* entrepreneur Section
 --------------------------------*/
-#clients {
+#entrepreneur {
   background: #000;
   padding: 60px 0;
 }
 
-#clients img {
+#entrepreneur img {
   max-width: 100%;
   transition: 0.3s;
   padding: 15px 0;
 }
 
-#clients img:hover {
+#entrepreneur img:hover {
   opacity: 1;
 }
 
-#clients .owl-nav, #clients .owl-dots {
+#entrepreneur .owl-nav, #entrepreneur .owl-dots {
   margin-top: 5px;
   text-align: center;
 }
 
-#clients .owl-dot {
+#entrepreneur .owl-dot {
   display: inline-block;
   margin: 0 5px;
   width: 12px;
@@ -802,7 +802,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #ddd;
 }
 
-#clients .owl-dot.active {
+#entrepreneur .owl-dot.active {
   background-color: #dcbe85;
 }
 
@@ -1068,10 +1068,4 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
-}
-
-#footer .credits {
-  text-align: center;
-  font-size: 13px;
-  color: #ddd;
 }
