@@ -737,7 +737,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: url(../image/service-urgence-électricité-MD/Électricité-MD-service-urgence.jpg)  center top no-repeat fixed;
+  background: #45453d;
   background-size: cover;
   padding: 60px 0;
 }
