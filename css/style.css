@@ -738,7 +738,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #call-to-action {
   padding: 60px 0;
-  background: #666666;
+  background: #6666;
 }
 
 #call-to-action h3 {
@@ -827,7 +827,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .contact-info address, #contact .contact-info p {
   margin-bottom: 0;
-  color: #000;
+  color: #fff;
 }
 
 #contact .contact-info h3 {
@@ -835,11 +835,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 15px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #999;
+  color: #fff;
 }
 
 #contact .contact-info a {
-  color: #000;
+  color: #fff;
 }
 
 #contact .contact-info a:hover {
