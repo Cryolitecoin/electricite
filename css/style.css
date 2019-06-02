@@ -740,16 +740,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 60px 0;
 }
 
-#call-to-action::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.6);
-  z-index: 9;
-}
 #call-to-action h3 {
   color: #dcbe85;
   font-size: 28px;
