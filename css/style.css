@@ -572,6 +572,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 #about .about-col p {
+  text-align: center;
   font-size: 14px;
   line-height: 24px;
   color: #fff;
