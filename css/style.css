@@ -201,12 +201,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin: 10px;
   color: #fff;
-  background: #18d26e;
+  background: #dcbe85;
 }
 
 #intro .btn-get-started:hover {
   background: #fff;
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 /*--------------------------------------------------------------
@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li:hover > a, .nav-menu > .menu-active > a {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 .nav-menu > li {
@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu ul li:hover > a {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 .nav-menu ul ul {
@@ -418,7 +418,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #mobile-nav ul .menu-has-children li a {
@@ -426,7 +426,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #mobile-body-overly {
@@ -485,7 +485,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 40px;
   height: 3px;
-  background: #18d26e;
+  background: #dcbe85;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -517,7 +517,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #featured-services i {
-  color: #18d26e;
+  color: #dcbe85;
   font-size: 48px;
   display: inline-block;
   line-height: 1;
@@ -534,7 +534,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #featured-services h4 a:hover {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #featured-services p {
@@ -590,7 +590,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-top: 8px;
   text-align: center;
   position: absolute;
-  background-color: #18d26e;
+  background-color: #dcbe85;
   border-radius: 50%;
   text-align: center;
   border: 4px solid #fff;
@@ -611,7 +611,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col:hover i {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #about .about-col h2 {
@@ -628,7 +628,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col h2 a:hover {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #about .about-col p {
@@ -656,7 +656,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .icon i {
-  color: #18d26e;
+  color: #dcbe85;
   font-size: 36px;
   line-height: 1;
   transition: 0.5s;
@@ -674,7 +674,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box:hover .title a {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #services .description {
@@ -718,8 +718,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #call-to-action .cta-btn:hover {
-  background: #18d26e;
-  border: 2px solid #18d26e;
+  background: #dcbe85;
+  border: 2px solid #dcbe85;
 }
 
 /* Call To Action Section
@@ -783,7 +783,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: bold;
   font-size: 48px;
   display: block;
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #facts .counters p {
@@ -828,7 +828,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  background: #18d26e;
+  background: #dcbe85;
   color: #fff;
 }
 
@@ -885,7 +885,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure .link-preview:hover, #portfolio .portfolio-item figure .link-details:hover {
-  background: #18d26e;
+  background: #dcbe85;
 }
 
 #portfolio .portfolio-item figure .link-preview:hover i, #portfolio .portfolio-item figure .link-details:hover i {
@@ -933,7 +933,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a:hover {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
@@ -977,7 +977,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #clients .owl-dot.active {
-  background-color: #18d26e;
+  background-color: #dcbe85;
 }
 
 /* Testimonials Section
@@ -1055,7 +1055,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .owl-dot.active {
-  background-color: #18d26e;
+  background-color: #dcbe85;
 }
 
 /* Team Section
@@ -1125,7 +1125,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social a:hover {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #team .member .social i {
@@ -1148,7 +1148,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #contact .contact-info address, #contact .contact-info p {
@@ -1169,7 +1169,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #contact .contact-address, #contact .contact-phone, #contact .contact-email {
@@ -1190,8 +1190,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #18d26e;
-  border: 1px solid #18d26e;
+  color: #dcbe85;
+  border: 1px solid #dcbe85;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1229,7 +1229,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #18d26e;
+  background: #dcbe85;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1268,7 +1268,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
-  border-left: 4px solid #18d26e;
+  border-left: 4px solid #dcbe85;
 }
 
 #footer .footer-top .footer-info p {
@@ -1295,7 +1295,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #18d26e;
+  background: #dcbe85;
   color: #fff;
 }
 
@@ -1322,7 +1322,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top h4::after {
-  background: #18d26e;
+  background: #dcbe85;
   width: 60px;
 }
 
@@ -1355,7 +1355,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #18d26e;
+  color: #dcbe85;
 }
 
 #footer .footer-top .footer-contact {
@@ -1377,7 +1377,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #18d26e;
+  background: #dcbe85;
   border: 0;
   width: 35%;
   padding: 6px 0;
