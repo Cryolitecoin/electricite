@@ -753,13 +753,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   z-index: 9;
 }
 #call-to-action h3 {
-  color: #fff;
+  color: #dcbe85;
   font-size: 28px;
   font-weight: 700;
 }
 
 #call-to-action p {
-  color: #fff;
+  color: #dcbe85;
 }
 
 #call-to-action .cta-btn {
@@ -773,7 +773,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 25px;
   transition: 0.5s;
   margin-top: 10px;
-  border: 2px solid #fff;
+  border: 2px solid #FF0000;
   color: #fff;
 }
 
