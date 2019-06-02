@@ -738,7 +738,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #call-to-action {
   padding: 60px 0;
-  background: #6666;
+  background-color: #6666;
 }
 
 #call-to-action h3 {
