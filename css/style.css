@@ -643,6 +643,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #services {
   background: url("../image/service/Électricité-MD-Background-Service-Saint-Hyacinthe.jpeg") center top no-repeat fixed;
+  background: rgba(0, 0, 0, 0.8);
   background-size: cover;
   padding: 60px 0 40px 0;
   position: relative;
