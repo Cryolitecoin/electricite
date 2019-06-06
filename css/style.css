@@ -744,6 +744,25 @@ body.mobile-nav-active #mobile-nav-toggle {
 #entrepreneur .owl-dot.active {
   background-color: #dcbe85;
 }
+#entrepreneur .cta-btn {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 2px solid #dcbe85;
+  color: #fff;
+}
+
+#entrepreneur .cta-btn:hover {
+  background: #dcbe85;
+  border: 2px solid #dcbe85;
+}
 
 
 /* Contact Section
