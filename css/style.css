@@ -119,7 +119,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro h2 {
-  color: #fff;
+  color: #dcbe85;
   margin-bottom: 30px;
   font-size: 48px;
   font-weight: 700;
@@ -205,8 +205,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .btn-get-started:hover {
-  background: #fff;
-  color: #dcbe85;
+  background: #dcbe85;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
