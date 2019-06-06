@@ -673,42 +673,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0 20px 20px 20px;
 }
 
-/* Call To Action Section
---------------------------------*/
-#call-to-action {
-  padding: 60px 0;
-  background: #525252;
-}
-
-#call-to-action h3 {
-  color: #dcbe85;
-  font-size: 28px;
-  font-weight: 700;
-}
-
-#call-to-action p {
-  color: #FF0000;
-}
-
-#call-to-action .cta-btn {
-  font-family: "Montserrat", sans-serif;
-  text-transform: uppercase;
-  font-weight: 500;
-  font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 28px;
-  border-radius: 25px;
-  transition: 0.5s;
-  margin-top: 10px;
-  border: 2px solid #dcbe85;
-  color: #fff;
-}
-
-#call-to-action .cta-btn:hover {
-  background: #dcbe85;
-  border: 2px solid #dcbe85;
-}
 
 /* entrepreneur Section
 --------------------------------*/
