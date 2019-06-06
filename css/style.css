@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
 #header #logo{float:left;}
 @media (min-width:1152px){#header #logo{padding-left:60px;}
 }
-#header #logo h3{font-size:34px;margin:0;padding:0;line-height:1;font-family:"Montserrat", sans-serif;font-weight:700;letter-spacing:3px;}
+#header #logo h3{font-size:34px;margin:0;padding:0;line-height:1;font-family:"Montserrat", sans-serif;font-weight:700;}
 #header #logo h3 a, #header #logo h3 a:hover{color:#fff;padding-left:10px;border-left:4px solid #dcbe85;}
 #header #logo img{padding:0;margin:0;}
 @media (max-width:1152px){#header #logo h1{font-size:28px;}
