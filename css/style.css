@@ -192,21 +192,22 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro .btn-get-started {
   font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 8px 32px;
-  border-radius: 50px;
+  padding: 8px 28px;
+  border-radius: 25px;
   transition: 0.5s;
-  margin: 10px;
+  margin-top: 10px;
+  border: 2px solid #dcbe85;
   color: #fff;
-  background: #666666;
 }
 
 #intro .btn-get-started:hover {
   background: #dcbe85;
-  color: #fff;
+  border: 2px solid #dcbe85;
 }
 
 /*--------------------------------------------------------------
