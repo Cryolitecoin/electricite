@@ -528,14 +528,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 400;
   margin: 15px 0;
   font-size: 18px;
-}
-
-#featured-services h4 a {
-  color: #fff;
-}
-
-#featured-services h4 a:hover {
-  color: #dcbe85;
+  olor: #dcbe85;
 }
 
 #featured-services p {
