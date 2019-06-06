@@ -687,6 +687,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 15px 0;
 }
 
+#entrepreneur p {
+  color: #fff;
+}
+
 #entrepreneur img:hover {
   opacity: 1;
 }
