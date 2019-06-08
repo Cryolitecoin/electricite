@@ -677,6 +677,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #entrepreneur img {
   max-width: 100%;
+  transition: 0.3s;
+  padding: 15px 0;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -685,7 +687,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #entrepreneur p {
   color: #fff;
 }
-
 
 
 /* Contact Section
