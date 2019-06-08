@@ -689,22 +689,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   opacity: 1;
 }
 
-#entrepreneur .owl-nav, #entrepreneur .owl-dots {
-  margin-top: 5px;
+#entrepreneur-logo
   text-align: center;
-}
-
-#entrepreneur .owl-dot {
-  display: inline-block;
-  margin: 0 5px;
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  background-color: #ddd;
-}
-
-#entrepreneur .owl-dot.active {
-  background-color: #dcbe85;
 }
 #entrepreneur .cta-btn {
   font-family: "Montserrat", sans-serif;
