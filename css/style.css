@@ -687,9 +687,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #entrepreneur img:hover {
   opacity: 1;
-}
-
-#entrepreneur-logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
