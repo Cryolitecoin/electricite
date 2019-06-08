@@ -677,21 +677,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #entrepreneur img {
   max-width: 100%;
-  transition: 0.3s;
-  padding: 15px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #entrepreneur p {
   color: #fff;
 }
 
-#entrepreneur img:hover {
-  opacity: 1;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 
 
 /* Contact Section
