@@ -689,7 +689,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   opacity: 1;
 }
 
-#entrepreneur-logo
+#entrepreneur-logo {
   text-align: center;
 }
 #entrepreneur .cta-btn {
@@ -698,7 +698,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
-  display: inline-block;
+  text-align: center;
   padding: 8px 28px;
   border-radius: 25px;
   transition: 0.5s;
